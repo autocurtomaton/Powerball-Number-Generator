@@ -1,2 +1,2 @@
 # Powerball-Number-Generator
-Generates random numbers and cost for Powerball lottery
+Generates random numbers for Powerball lottery tickets and lists the cost
